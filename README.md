@@ -1,6 +1,6 @@
 # CIFAR-100 Image Classification Project
 
-Built an end-to-end image classification model on the CIFAR-100 dataset, covering data preprocessing, model development, training, and evaluation. Visualized performance metrics and analyzed model accuracy across classes.
+Built an end-to-end image classification model on the CIFAR-100 dataset using TensorFlow, covering data preprocessing, model development, training, and evaluation. Visualized performance metrics and analyzed model accuracy across classes.
 
 ## 🚀 Features
 - Data preprocessing and normalization
@@ -12,11 +12,11 @@ Built an end-to-end image classification model on the CIFAR-100 dataset, coverin
 - Python
 - NumPy
 - Matplotlib / Seaborn
-- PyTorch (if you used it)
+- TensorFlow / Keras
 
 ## 📊 Results
-- Achieved XX% accuracy on the test set *(fill this in)*
-- Insights on class-wise performance and model limitations
+- Achieved XX% accuracy on the test set *(update this)*
+- Analysis of class-wise performance and model behavior
 
 ## ▶️ How to Run
 1. Clone the repository  
